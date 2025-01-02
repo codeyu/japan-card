@@ -1,0 +1,864 @@
+[
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/038006_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "3,300円",
+    "point_rate": "-",
+    "name": "ポーラスターカード＜プラス＞",
+    "detail_url": "https://kakaku.com/card/item.asp?id=038006",
+    "rank": "921",
+    "introduction_title": "2010年8月1日に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/040013_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "524円",
+    "point_rate": "-",
+    "name": "ビューコーポレートカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=040013",
+    "rank": "922",
+    "introduction_title": "カード決済でSuicaの購入やチャージができる法人カードです。",
+    "introduction_text": "いつでもクレジット決済によるSuicaへのチャージができ、モバイルSuicaや「えきねっと」などJR東日本グループのサービスが充実した法人カードです。使用者ごとにカードを追加できるほか、プラスチックカードを発行せずにカード番号や有効期限等、決済に必要な情報のみIDが発行される「ビュー法人カードレスサービス」が利用できます。",
+    "features": [
+      "JR東日本グループのサービスが充実",
+      "ビュー法人カードレスサービス",
+      "国内・海外旅行傷害保険が付帯"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/043006_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※170サンクスポイントで年会費無料コースに応募可能",
+    "point_rate": "0.30%～0.60%",
+    "name": "ライフカード Stella",
+    "detail_url": "https://kakaku.com/card/item.asp?id=043006",
+    "rank": "923",
+    "introduction_title": "海外で利用すると4%キャッシュバックしてくれるJCBのライフカードです。",
+    "introduction_text": "海外で利用するとその利用金額の4%が3ヵ月後に自動的にキャッシュバックされるほか、国内外で利用可能な旅行傷害保険やシートベルト保険が自動付帯です。JCBやライフカードの様々な優待サービスを受けることもできます。また、子宮頸がんと乳がんの検診が無料になるクーポンを希望者のみに発行してくれます。",
+    "features": [
+      "海外ショッピング利用額の4％をキャッシュバック",
+      "LIFEサンクスポイントが貯まる",
+      "JCB・ライフカードの優待サービスに加え各種保険も付帯"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/043008_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "-",
+    "name": "ライフカードビジネス（スタンダード）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=043008",
+    "rank": "924",
+    "introduction_title": "年会費永久無料、VisaやMasterCardの優待サービスが付いたライフカードです。",
+    "introduction_text": "法人または個人事業主を対象としたカードで、Visa・MasterCard・JCBの3種類から選べます。且つ、VisaとMasterCardのビジネスに関する各優待サービスが受けられます。また、クラウド会計ソフトfreee（フリー）の利用や福利厚生サービスとして提携しているお店の優待サービスの利用が可能です。",
+    "features": [
+      "さなざまなビジネスシーンに活躍する「Visa優待サービス」",
+      "海外旅行の手厚いサポート「海外アシスタンスサービス」&「旅行サービス」",
+      "入会金無料。プライベートを充実させる「福利厚生サービス」"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/043027_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年1回以上利用で翌年度無料",
+    "point_rate": "0.30%～0.60%",
+    "name": "龍馬カード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=043027",
+    "rank": "925",
+    "introduction_title": "利用額の一部が坂本龍馬関連施設に寄付されるライフカードです。",
+    "introduction_text": "会員の負担はなく、カード利用額の一部が坂本龍馬関連施設などへ顕彰活動資金として寄付される坂本龍馬デザインのカードです。最高2,000万円補償の海外旅行傷害保険と最高1,000万円補償の国内旅行傷害保険が付帯しています。カードショッピング利用額に応じて、1,000円につき1ポイントのLIFEサンクスポイントが貯まります。",
+    "features": [
+      "坂本龍馬関連施設に寄付できる",
+      "海外・国内旅行傷害保険が自動付帯",
+      "LIFEサンクスポイントが貯まる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/043036_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "-",
+    "name": "STAR BUSINESS CARD",
+    "detail_url": "https://kakaku.com/card/item.asp?id=043036",
+    "rank": "926",
+    "introduction_title": "年会費無料で最大50枚まで発行可能な東京スター銀行のビジネスカードです。",
+    "introduction_text": "本会員と従業員カードの年会費は永年無料で、利用可能枠は最高500万円までの東京スター銀行提携のビジネスカードです。従業員カードを最大49枚、ETCカードも50枚まで無料で発行できます。会社設立・開業初年度でも申込みでき、最短5営業日で発行可能です。",
+    "features": [
+      "利用限度額が最高500万円",
+      "従業員カードを49枚まで無料発行できる",
+      "年会費が永年無料"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/043046_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,100円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年1回以上利用で翌年度無料",
+    "point_rate": "1.00%",
+    "name": "PALM CARD（パルムカード）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=043046",
+    "rank": "927",
+    "introduction_title": "プリペイド機能搭載で武蔵小山商店街で使えるPALM POINTが貯まるカードです。",
+    "introduction_text": "東京都品川区にある武蔵小山パルム商店街で利用できるPALM POINTが貯まるカードです。また、ポイントカード機能に加え、現金をチャージしてキャッシュレスで買い物ができるプリペイド機能が付帯しています。チャージや支払いでポイントが貯まり、貯まったポイントは1ポイント=1円としてパルム商店街の加盟店で使用できます。年1回でもカード利用があれば翌年度も年会費無料になります。",
+    "features": [
+      "電子マネー決済機能「PALMマネー」搭載",
+      "5％キャッシュバックのパルムクレジット感謝DAY",
+      "パルム商店街なら分割手数料が4回まで無料"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/045003_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "1,375円\r\n                                    条件付無料\n\r\n                                            ※MyJチェックの登録+年50万円以上のカード利用で年会費無料",
+    "point_rate": "-",
+    "name": "さくらJCB一般カード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=045003",
+    "rank": "928",
+    "introduction_title": "2014年6月2日に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/051088_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.50%～2.50%",
+    "name": "モラージュ菖蒲エポスカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=051088",
+    "rank": "929",
+    "introduction_title": "モラージュ菖蒲での割引や優待サービスが利用できるエポスカードです。",
+    "introduction_text": "カード利用または提示をすると、モラージュ菖蒲内の60店舗以上で割引などの優待が受けられます。また、モラージュ菖蒲ではカード会員向けに毎月25日に5%オフ、年に2回10%感謝デーが開催されます。さらに、毎月5日と15日はエポスポイントが5倍、来店ポイントが1日1ポイント貯まるなどモラージュ菖蒲での特典が充実しています。",
+    "features": [
+      "当日から使える2,000円分の入会特典券をプレゼント",
+      "モラージュ菖蒲にて割引や優待サービスが利用できる",
+      "毎月5日と15日はエポスポイントが5倍"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/051098_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.50%",
+    "name": "エポスTOGETHERカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=051098",
+    "rank": "930",
+    "introduction_title": "カード利用額の0.1%分が、国連UNHCR協会に寄付されるエポスカードです。",
+    "introduction_text": "カード利用金額の0.1%分が国連UNHCR協会に自動寄付され、世界中の難民支援のための活動資金になります。またカード利用で貯まったエポスポイントは、ユニセフなど様々な団体の寄付に活用可能です。また、WEB入会特典として2,000円相当のポイントがプレゼントされます。カードはリサイクル素材が使用されており、裏面にはユニバーサルリサイクルシンボルがついています。",
+    "features": [
+      "カード利用で貯まるポイントが難民支援につながる",
+      "WEB入会で2,000円相当のポイントがもらえる",
+      "環境に配慮したサステナブルな素材を使用"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/066023_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "1,925円（初年度無料）",
+    "point_rate": "1.00%～3.00%",
+    "name": "TOYOTA TS CUBIC VIEW CARD レギュラー",
+    "detail_url": "https://kakaku.com/card/item.asp?id=066023",
+    "rank": "931",
+    "introduction_title": "ロードサービスが付帯し、貯まったポイントをSuicaへチャージできるカードです。",
+    "introduction_text": "カードショッピングはもちろん、Suicaへのオートチャージ、モバイルSuicaやQUICPayの利用でもポイントが貯まり、貯まったポイントをSuicaへチャージすることが可能です。24時間365日、車の事故や故障に対応可能な「ドライバーズサポート24」が利用でき、海外で購入した商品に対し100万円まで補償されるショッピング保険も付帯されています。",
+    "features": [
+      "VIEW CARD機能付き",
+      "ポイントプラスのポイントが貯まる",
+      "ロードサービスが付帯"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/073049_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年10万円以上利用で翌年度無料",
+    "point_rate": "0.50%～1.00%",
+    "name": "オールインワンベーシックカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=073049",
+    "rank": "932",
+    "introduction_title": "西日本シティ銀行のキャッシュカードとクレジットカードが一体になったカードです。",
+    "introduction_text": "西日本シティ銀行のICキャッシュカードとの一体型カードです。最高2,000万円まで補償の海外旅行傷害保険、年間限度額が100万円の買い物保険も付帯しています。色違いのデザインから好みのカードを選べ、初年度年会費は無料です。",
+    "features": [
+      "最高2,000万円の海外旅行傷害保険と年間100万円までの買い物保険付き",
+      "様々なNCBポイントサービス特典",
+      "条件を満たせば翌年も年会費無料"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/075010_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "55,000円",
+    "point_rate": "0.50%～1.00%",
+    "name": "北陸Visaプラチナカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=075010",
+    "rank": "933",
+    "introduction_title": "Visaのプラチナサービスが利用できる北陸銀行提携のプラチナカードです。",
+    "introduction_text": "普段の買い物からレストランでの食事、旅行先での対応まで、ワンランク上のサービスが利用できる、Visaプラチナカードです。プラチナカード特典の空港ラウンジ利用や、最高1億円まで補償される国内外旅行傷害保険など、様々なサービスが付帯しています。また、カードの利用で貯まるワールドプレゼントポイントの有効期限は4年間と最長です。",
+    "features": [
+      "最高1億円の旅行傷害保険が付帯",
+      "年2回のカード利用プレゼント",
+      "空港ラウンジなどのプラチナカード特典が利用できる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/079007_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年10万円以上利用で翌年度無料\r\n                                        \n\r\n                                            携帯電話料金、ガス料金、電気料金のいずれかの支払いをカード決済する場合年会費無料／「マイ・ペイすリボ」の登録＋年1回の利用で年会費無料",
+    "point_rate": "0.30%",
+    "name": "福岡銀行 アレコレnimoca クラシック",
+    "detail_url": "https://kakaku.com/card/item.asp?id=079007",
+    "rank": "934",
+    "introduction_title": "福岡銀行発行のアレコレカードにnimoca機能が付いたカードです。",
+    "introduction_text": "キャッシュカード・ローンカード機能に加え、バスや電車、買い物で利用できるnimoca機能が付いています。カードショッピング利用で、nimocaポイントが1,000円につき3ポイント貯まります。初年度はふくぎんATM時間外手数料やコンビニATM利用手数料が無料になります。最高2,000万円まで補償してくれる海外旅行傷害保険も付いています。",
+    "features": [
+      "nimoca機能が利用できる",
+      "nimocaポイントが貯まる",
+      "ふくぎんATM時間外手数料やコンビニATM利用手数料が無料"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/087001_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年10万円以上利用で翌年度無料\r\n                                        \n\r\n                                            携帯電話・公共料金のカード決済で翌年度年会費無料",
+    "point_rate": "1.00%～1.50%",
+    "name": "SHIMIZU With Card（一般カード）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=087001",
+    "rank": "935",
+    "introduction_title": "清水銀行のキャッシュカード機能が付いてPontaポイントも貯まるカードです。",
+    "introduction_text": "キャッシュカード・Pontaカード・クレジットカードが1枚になったカードです。Ponta提携店舗でカードを利用すると、お買い上げポイントとクレジット決済のポイントが同時に貯まります。また、最高3,000万円の海外・国内旅行傷害保険が付帯し、カードの年会費は初年度が無料、次年度以降も条件を満たすと無料です。",
+    "features": [
+      "交換先が豊富なPontaポイントが貯まる",
+      "条件を満たすと次年度以降も年会費が無料",
+      "最高3,000万円の海外・国内旅行傷害保険が付帯"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/091009_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.60%",
+    "name": "歯科組合ゴールドカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=091009",
+    "rank": "936",
+    "introduction_title": "宮城県歯科医師共同組合員限定、年会費無料のゴールドカードです。",
+    "introduction_text": "年会費永年無料、宮城県歯科医師共同組合会員限定のゴールドカードです。カード利用額500円ごとにスマイルポイントが3ポイント貯まり、1,000ポイントから1,000円相当の商品券などと交換可能です。東北6県でのカード提示優待特典のほか、国内旅行傷害保険の付帯や空港ラウンジサービスなどゴールドカード特典が利用可能です。",
+    "features": [
+      "カードの利用でスマイルポイントが貯まる",
+      "年会費無料でゴールドカード特典が付帯",
+      "東北6県で様々な優待サービスが受けられる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/092001_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.50%～1.00%",
+    "name": "Mカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=092001",
+    "rank": "937",
+    "introduction_title": "ミュゼブランドの利用でポイントが貯まる、年会費永年無料のカードです。",
+    "introduction_text": "ミュゼプラチナムやミュゼホワイトニングなど、ミュゼブランドの各種サービスを利用すると100円毎にMポイントが1ポイント貯まり、普段のショッピング利用でも200円につきワールドプレゼントポイントが1ポイント貯まります。Mポイントは1ポイント＝1円で、ミュゼブランドの美容脱毛コース、ホワイトニング施術や提携サービスなどで利用できます。年会費は永年無料です。",
+    "features": [
+      "新規・追加契約時のカード申し込みで各種特典を受けられる",
+      "ミュゼブランドでは、2種類のポイントが貯まる",
+      "東京VISAカードの各種サービスを利用できる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/208001_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            以下いずれかで次年度年会費無料①MyJチェック（Web明細確認）に登録のうえ、ショッピング年間合計10万円（税込）以上の利用②利用代金の引落とし口座をしずぎんインターネット支店Webwalletにする",
+    "point_rate": "0.30%～10.00%",
+    "name": "しずぎんjoyca J",
+    "detail_url": "https://kakaku.com/card/item.asp?id=208001",
+    "rank": "938",
+    "introduction_title": "しずぎんが発行する、Oki Dokiポイントが貯まるカードです。",
+    "introduction_text": "カード利用でOki Dokiポイントが1,000円につき1ポイント貯まるほか、しずぎんの取引内容に応じてポイントが付与されます。旅費などをカードで支払うと最高3,000万円の国内外旅行傷害保険が付帯され、JCBならではの特典やキャンペーンが利用できます。初年度は年会費永年無料で、条件を満たせば次年度のカード年会費も無料になります。",
+    "features": [
+      "国内外旅行傷害保険やJCBスマートフォン保険が付帯",
+      "条件クリアで次年度年会費が無料",
+      "Oki Dokiポイントが最大20倍貯まる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/844004_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "33,000円",
+    "point_rate": "0.45%～9.90%",
+    "name": "JCB法人プラチナカード（紀陽カード）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=844004",
+    "rank": "939",
+    "introduction_title": "充実のプラチナ特典が付帯した、法人向け紀陽カードです。",
+    "introduction_text": "「プラチナ・コンシェルジュデスク」「プライオリティ・パス」などプラチナ会員ならではのサービスに加え、最高1億円補償の旅行傷害保険が付帯します。カードを持っていない家族も最高1,000万円まで補償を受けられます。Oki Dokiポイントが1,000円につき1ポイント貯まり、貯まったポイントはカード利用額の充当などに使えます。",
+    "features": [
+      "充実したプラチナ会員特典",
+      "国内外の出張・移動に最高1億円の保険補償が付帯",
+      "カード利用額の充当などに使えるOki Dokiポイントが貯まる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/952003_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,375円",
+    "point_rate": "0.40%～0.80%",
+    "name": "DC法人一般カード（静銀カード）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=952003",
+    "rank": "940",
+    "introduction_title": "ビジネスサポートが充実した、しずぎんのベーシックな法人カードです。",
+    "introduction_text": "接待や出張など、ビジネスシーンで活躍できるしずぎんの一般法人カードです。「DC-JALオンライン航空券予約サービス」や、「DCタクシーチケット」など、国内ビジネスサポートが充実しています。また、経費等のカード払いでDCハッピープレゼントポイントが貯まります。ポイントサイト「POINT名人.com」経由でネット購入すると最大25倍のポイントを獲得できます。",
+    "features": [
+      "必要経費の支払いでDCハッピープレゼントポイントが貯まる",
+      "国内ビジネスのサポートが充実",
+      "カード紛失・盗難保障が付帯"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/003001_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,100円（初年度無料）",
+    "point_rate": "0.50%～3.00%",
+    "name": "TOKYU CARD ClubQ JMB PASMO（コンフォートメンバーズ機能付）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=003001",
+    "rank": "941",
+    "introduction_title": "PASMO機能、JMB機能、コンフォートメンバーズ機能が付いた東急カードです。",
+    "introduction_text": "0.5％～3％のTOKYU POINTが貯まり、JMB機能搭載でJALマイルを貯めることもできます。さらに、東急グループホテルでの宿泊やホテル内のレストラン・バーでの利用や、東急ベルの特別優待サービスが受けられるコンフォートンバーズ機能が付帯されたカードです。",
+    "features": [
+      "TOKYU POINTが貯まる",
+      "TOKYU POINT加盟店や提携企業で最大3％"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/003005_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "6,600円",
+    "point_rate": "-",
+    "name": "TOKYU CARD ClubQ ゴールド",
+    "detail_url": "https://kakaku.com/card/item.asp?id=003005",
+    "rank": "942",
+    "introduction_title": "2011年7月に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/003008_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,100円（初年度無料）",
+    "point_rate": "0.50%～3.00%",
+    "name": "TOKYU CARD ClubQ JMB",
+    "detail_url": "https://kakaku.com/card/item.asp?id=003008",
+    "rank": "943",
+    "introduction_title": "JMB機能が付帯しポイントが最大3％貯まる東急カードです。",
+    "introduction_text": "TOKYU POINTが0.5％～3％貯まりJMB機能搭載でJALマイルを貯めることもできます。貯まったポイントとマイルは相互交換することも可能で、利用の幅が広がります。また、パソコンや携帯からいつでもお好きな座席にチェックインし、空港に着いたらそのままゲートへ直行できる「JALタッチ＆ゴー」サービスも利用できます。",
+    "features": [
+      "TOKYU POINTが貯まる",
+      "TOKYU POINT加盟店や提携企業で最大3％",
+      "JMB機能搭載でJALマイルも貯まる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/007034_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.40%～0.80%",
+    "name": "DCドライバーズカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=007034",
+    "rank": "944",
+    "introduction_title": "三菱UFJニコスが発行するドライバー向けカードです。",
+    "introduction_text": "車のトラブルに24時間365日対応してくれるロードサービス付きのカードです。鍵の閉じ込みやタイヤパンク、ガス欠などの予期せぬアクシデントに無料で対応してくれます。また、国内・海外ともにカードで購入した品物の破損・盗難などの損害を年間100万円を限度に補償してくれるショッピング保険が付いています。",
+    "features": [
+      "無料ロードサービスが付帯",
+      "最大100万円のショッピング保険付き",
+      "DCハッピープレゼントのポイントが貯まる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/007035_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "11,000円",
+    "point_rate": "1.00%～2.00%",
+    "name": "JAゴールドカード クレジットカード単機能型",
+    "detail_url": "https://kakaku.com/card/item.asp?id=007035",
+    "rank": "945",
+    "introduction_title": "JA-SSやホクレンSSでの給油が割引になるゴールドカードです。",
+    "introduction_text": "カードの利用で、JA-SS、ホクレンSSでの給油の際、1リットルあたり2円の割引が受けられるほか、JA直売所での買い物時に5%の割引が受けられます。カード利用額1,000円に2ポイントのポイントが貯まります。海外・国内共に補償額最大5,000円万円の旅行傷害保険が付帯し、トラブル時に安心のロードアシスタンスは24時間・365日利用可能です。",
+    "features": [
+      "ガソリンが2円/L割引になる",
+      "年間利用額によってボーナスポイントが貰える",
+      "ロードアシスタンスサービスが利用可能"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/007044_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年1回以上利用で翌年度無料",
+    "point_rate": "0.40%～1.00%",
+    "name": "スギグループNICOSカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=007044",
+    "rank": "946",
+    "introduction_title": "わいわいプレゼントとスギポイントがダブルで貯まるカードです。",
+    "introduction_text": "スギグループの利用で、スギポイントとNICOSの「わいわいプレゼントポイント」が同時に貯まるカードです。貯めたポイントは「スギグループポイント景品カタログ」の中からお好きなものやANAマイルへ交換可能です。審美治療や矯正治療などの保険適用外治療がカード提示で5％引きの優待価格で受けらるほか、最高2,000万円の海外旅行傷害保険が付帯しています。",
+    "features": [
+      "わいわいプレゼントとスギポイントが貯まる",
+      "保険適用外治療が5％引きで受けられる",
+      "最高2,000万円の海外旅行傷害保険が付帯"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/007073_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "11,000円",
+    "point_rate": "-",
+    "name": "SKYPASS DCカード（ゴールド）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=007073",
+    "rank": "947",
+    "introduction_title": "SKYPASSのマイルが貯まるゴールドカードです。",
+    "introduction_text": "大韓航空のSKYPASSマイルが貯まるゴールドカードです。貯めたマイルは10年間有効です。フライト以外に、ショッピングやホテル・レンタカーなど提携会社のサービス利用でもマイルが貯まります。最高5,000万円の海外・国内旅行傷害保険がついています。また、品物の盗難や破損を年間300万円を限度に保証してくれるショッピング保険もついています。",
+    "features": [
+      "フライトでマイルが貯まる",
+      "ショッピングでもマイルが貯まる",
+      "最高5,000万円の海外旅行傷害保険つき"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/007104_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年4万円以上利用で翌年度無料",
+    "point_rate": "1.00%～2.00%",
+    "name": "三菱地所グループCARD みなとみらいポイントカード一体型 一般カード（NICOS）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=007104",
+    "rank": "948",
+    "introduction_title": "みなとみらいや三菱地所グループで特典が受けられるカードです。",
+    "introduction_text": "三菱地所クループの対象施設での利用で、「三菱地所グループポイント」と「みなとみらいポイント」がダブルで貯まり、貯まったポイントはギフトカードに交換できます。ほかにも、三菱地所グループ対象施設やみなとみらいなどで、様々な会員限定の割引や優待などの特典を受けることができるカードです。",
+    "features": [
+      "三菱地所グループポイントとみなとみらいポイントが貯まる",
+      "新規入会でポイントがもらえる",
+      "会員限定の特典が充実している"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/008014_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.50%～1.50%",
+    "name": "エブリプラス",
+    "detail_url": "https://kakaku.com/card/item.asp?id=008014",
+    "rank": "949",
+    "introduction_title": "2019年11月28日に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/008054_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "11,000円\r\n                                    条件付無料\n\r\n                                            ※年1回以上利用で翌年度無料",
+    "point_rate": "0.50%～1.50%",
+    "name": "esquire club VISA for Ownersゴールド",
+    "detail_url": "https://kakaku.com/card/item.asp?id=008054",
+    "rank": "950",
+    "introduction_title": "高級会員制クラブ「エスカイヤクラブ」会員限定のビジネスカードです。",
+    "introduction_text": "「エスカイヤクラブ」会員で満20歳以上の方を対象とした中小企業代表者、個人事業者向けのビジネスカードです。航空券や東海道・山陽新幹線のネット予約、チケットレスサービスやホテルの宿泊やオフィス用品購入、ハイヤーや通信サービスなどが利用できるVisaビジネスオファーなどの法人カード会員限定の様々なサービスが付帯されており、国内空港ラウンジも無料で利用出来ます。",
+    "features": [
+      "充実のビジネスサポートが受けられる",
+      "最高5000万円補償。海外旅行傷害保険＆ショッピング補償",
+      "空港ラウンジサービス"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/008081_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）",
+    "point_rate": "0.50%～1.00%",
+    "name": "ドラゴンクエストⅩ VISAカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=008081",
+    "rank": "951",
+    "introduction_title": "プレゼントチケット特典付きドラゴンクエストXオフィシャルカードです。",
+    "introduction_text": "カードフェイスはスライム柄で、ドラクエファンには魅力のカードです。ドラゴンクエストXのプレイ利用券や「DQXショップ」の支払いにも利用でき、ドラクエの利用料金をカード払いにすると、様々なアイテムと交換できる「プレゼントチケット」が毎月1枚もらえます。",
+    "features": [
+      "ドラゴンクエストXの利用料金の支払いでプレゼントチケットがもらえる",
+      "年間100万円までのショッピング補償付き",
+      "三井住友カードの各種サービスを利用可能"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/008086_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "262円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年1回以上利用で翌年度無料",
+    "point_rate": "0.50%～1.00%",
+    "name": "京王プラザホテルエグゼクティブカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=008086",
+    "rank": "952",
+    "introduction_title": "京王グループで優待が受けられるPASMOオートチャージ機能付きカードです。",
+    "introduction_text": "新宿、札幌、八王子、多摩、すべての京王プラザホテル共通で使え、エグゼクティブ会員限定特典が充実したカードです。京王プラザホテルのサービス利用で「プラザTHANKSポイント」、京王ポイントサービス対象店での利用で「京王ポイント」や「Vポイント」が貯まります。",
+    "features": [
+      "エグゼクティブ会員限定特典が充実",
+      "京王パスポートカード機能付き",
+      "PASMOのオートチャージサービスが利用可能"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/009027_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年5万円以上利用で翌年度無料",
+    "point_rate": "1.00%",
+    "name": "ブリヂストンカーライフサポートカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=009027",
+    "rank": "953",
+    "introduction_title": "2022年12月5日に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/009050_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.50%",
+    "name": "メディアカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=009050",
+    "rank": "954",
+    "introduction_title": "2022年12月5日に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/009052_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年5万円以上利用で翌年度無料",
+    "point_rate": "0.50%～3.63%",
+    "name": "ZAGカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=009052",
+    "rank": "955",
+    "introduction_title": "2022年5月31日に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/009057_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "無料",
+    "point_rate": "0.50%～1.00%",
+    "name": "みつわ CARD",
+    "detail_url": "https://kakaku.com/card/item.asp?id=009057",
+    "rank": "956",
+    "introduction_title": "2023年9月30日に新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/009095_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "1,100円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年5万円以上利用で翌年度無料",
+    "point_rate": "0.50%～1.00%",
+    "name": "ぎゅーとらカード",
+    "detail_url": "https://kakaku.com/card/item.asp?id=009095",
+    "rank": "957",
+    "introduction_title": "入会でもれなくぎゅーとらの500円分優待クーポンがもらえるカードです。",
+    "introduction_text": "カードへ入会特典として500円の優待クーポンがもらえます。カードの利用でわくわくポイントが貯まり、ぎゅーとら各店での利用ではさらにぎゅーとらポイントも貯まります。わくわくポイントはぎゅーとら商品券や他社ポイントなどと交換可能です。ぎゅーとら各店では、毎月第1日曜日にカードを利用すると請求時に5％オフとなります。",
+    "features": [
+      "ぎゅーとらで使えるクーポンプレゼント",
+      "毎月第1日曜日は優待デー",
+      "ぎゅーとら各店では2種類のポイントが貯まる"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/010007_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "3,300円（初年度無料）",
+    "point_rate": "0.50%",
+    "name": "i Gold",
+    "detail_url": "https://kakaku.com/card/item.asp?id=010007",
+    "rank": "958",
+    "introduction_title": "電子マネー搭載。最大2.2倍のポイントが貯まるオリコのゴールドカードです。",
+    "introduction_text": "1,000円未満の利用でも月額の合計金額にてポイントが付与されます。通常カードショッピング1,000円ごとに1ポイント付与されるところ、年間の利用合計金額次第では翌年のポイント加算倍率が2.2倍になります。また、タッチ決済機能が搭載されているので、簡単・スピーディに支払いが完了します。",
+    "features": [
+      "最大2.2倍の暮らスマイルポイントが貯まる",
+      "年会費がお手頃なゴールドカード",
+      "タッチ決済が搭載"
+    ]
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/010018_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/visa.png",
+        "name": "Visa"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      },
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/jcb-card.png",
+        "name": "JCB"
+      }
+    ],
+    "annual_fee": "1,650円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年1回以上利用で翌年度無料",
+    "point_rate": "0.50%",
+    "name": "iB（iD×QUICPay）",
+    "detail_url": "https://kakaku.com/card/item.asp?id=010018",
+    "rank": "959",
+    "introduction_title": "新規のお申し込み受付を終了したカードです。",
+    "features": []
+  },
+  {
+    "image_url": "https://img1.kakaku.k-img.com/images/card/face_list400x252/010040_0.png",
+    "brands": [
+      {
+        "image_url": "https://img1.kakaku.k-img.com/images/card/brand/sub/master-card.png",
+        "name": "Mastercard"
+      }
+    ],
+    "annual_fee": "1,375円（初年度無料）\r\n                                    条件付無料\n\r\n                                            ※年1回以上利用で翌年度無料",
+    "point_rate": "1.00%",
+    "name": "SAKURA MACHI Card",
+    "detail_url": "https://kakaku.com/card/item.asp?id=010040",
+    "rank": "960",
+    "introduction_title": "SAKURA MACHI Kumamotoで利用すると様々な優待が受けられるカードです。",
+    "introduction_text": "カードを利用するとサクラマチポイントが貯まり、貯まったポイントはSAKURA MACHI Kumamotoで利用可能な買物券と交換できます。また、年間利用金額に応じてポイントが加算されるほか、サクラマチ熊本駐車場が最大6時間無料になります。初年度年会費無料で翌年度も年1回利用で無料になります。",
+    "features": [
+      "SAKURA MACHI Kumamotoで利用するとポイントが貯まる",
+      "サクラマチ熊本駐車場が最大6時間無料",
+      "Mastercardコンタクトレスを搭載"
+    ]
+  }
+]
